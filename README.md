@@ -1,5 +1,7 @@
 # Decibel
 
+https://github.com/user-attachments/assets/f019a321-6231-44ef-9fb4-19ab4a015af0
+
 Management system for AI voice agents testing, built for the Dial Hackathon.
 
 Architecture:
